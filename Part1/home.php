@@ -19,7 +19,7 @@
             </div>
 
             <div class="field-wrap">
-              User Name : <input type="text" autocomplete="off" name="username" placeholder = "UserName"/>
+              UserName : <input type="text" autocomplete="off" name="username" placeholder = "UserName"/>
             </div>
           </div>
 
